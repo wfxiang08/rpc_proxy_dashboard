@@ -1,0 +1,9 @@
+# Django相关的包
+
+-FDjango==1.3.4.dev
+cy-utils-general==0.0.2
+
+-FuWSGI==2.0.6
+
+kazoo==2.2.1
+

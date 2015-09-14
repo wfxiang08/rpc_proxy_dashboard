@@ -1,0 +1,5 @@
+/settings.py
+/uwsgi.xml
+/supervisor.conf
+/.idea
+*.pyc
